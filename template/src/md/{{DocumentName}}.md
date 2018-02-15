@@ -44,6 +44,10 @@ I do TeX too
 
 Hahaha
 
-![Photo by Ksenia Makagonova](../img/ksenia-makagonova-229007.jpg)
+
+Photos work when dragged from the img folder via Typora.
+
+Or by manually referencing them with the path being :`img/$imgName`
+eg. `![Photo by Ksenia Makagonova](../img/ksenia-makagonova-229007.jpg)`
 
 # References
