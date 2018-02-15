@@ -43,7 +43,8 @@ Swap foo and bar for your own values.
 $ mkdir foo
 $ cd foo
 $ git init
-$ git remote set-url origin git@github.com:HaoZeke/boilr-docuYoda.git
+$ git remote set-url origin git@github.com:foo/bar.git
+$ boilr template download HaoZeke/boilr-docuYoda boilr-docuYoda
 $ boilr template use boilr-docuYoda .
 $ git add .
 $ git commit -m "Initial Commit"
