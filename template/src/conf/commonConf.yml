@@ -1,0 +1,8 @@
+author:
+- {{Author}}
+title: {{DocumentName}}
+subtitle: {{SubTitle}}
+fontsize: 16pt
+date: {{Date}}
+subject: {{Subject}}
+tags: [Markdown, Example]

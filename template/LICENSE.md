@@ -180,7 +180,7 @@ recommend that a file or class name and description of purpose be included on
 the same “printed page” as the copyright notice for easier identification within
 third-party archives.
 
-    Copyright {{Year}} {{Author}}
+    Copyright {{Year}} {{Author}} <{{Email}}>
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -200,7 +200,7 @@ third-party archives.
 The MIT License (MIT)
 =====================
 
-Copyright © {{Year}} {{Author}}
+Copyright © {{Year}} {{Author}} <{{Email}}>
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -780,7 +780,7 @@ and each file should have at least the “copyright” line and a pointer to
 where the full notice is found.
 
     <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) {{Year}}  {{Author}}
+    Copyright (C) {{Year}}  {{Author}} <{{Email}}>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -800,7 +800,7 @@ Also add information on how to contact you by electronic and paper mail.
 If the program does terminal interaction, make it output a short notice like this
 when it starts in an interactive mode:
 
-    <program>  Copyright (C) {{Year}}  {{Author}}
+    <program>  Copyright (C) {{Year}}  {{Author}} <{{Email}}>
     This program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type 'show c' for details.
