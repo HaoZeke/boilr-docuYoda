@@ -1,10 +1,21 @@
 {
   "TemplateName": "boilr-docuYoda",
-  "Authors": "Rohit Goswami <HaoZeke[at]yandex.com>",
+  "Authors": "Rohit Goswami",
   "Year": "2018",
   "GithubReference": "HaoZeke/boilr-docuYoda",
   "ProjectGoal": "Scaffolding for Pandoc documents for Turtles [docuYoda]",
   "SimilarWork": "zenYoda",
   "Justification": "I hate boilerplate code.",
-  "DocumentClass": "scrbook"
+  "DocumentClass": "scrbook",
+  "Author": "",
+  "Date": "14-02-18",
+  "License": "MIT",
+  "Email": "<HaoZeke[at]yandex.com>",
+  "Subject": "docuYoda",
+  "DocumentName": "docuYoda",
+  "SubTitle": "Pandoc documents for Turtles.",
+  "GithubUserName": "HaoZeke",
+  "RepoName": "boilr-docuYoda",
+  "SemaUserName": "haozeke",
+  "PayPalMeID": "HaoZeke"
 }
